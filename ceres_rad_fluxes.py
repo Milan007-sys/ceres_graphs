@@ -6,7 +6,7 @@ Updated in Oct 2024
 @author: Milan Salek
 
 This script creates a plot that shows the main components of the 
-radiation imbalance as measured by CERES project
+radiation fluxes as measured by CERES project
 
 The CERES data are from the web site:
 https://ceres.larc.nasa.gov/data/#ebaftoa-level-3
