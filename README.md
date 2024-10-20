@@ -1,4 +1,4 @@
-# A Python script for visualization of the global radiation at the top of the atmosphere from CERES
+# Python script for visualization of the global radiation fluxes at the top of the atmosphere from CERES
 ![Alt The final image should look like this](https://github.com/Milan007-sys/ceres_graphs/blob/main/CERES_radiation_fluxes_globe_ENG.png?raw=true)
 
 The final picture shows the 12-month running mean of the CERES radiation components
