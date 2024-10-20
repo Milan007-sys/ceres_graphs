@@ -1,0 +1,4 @@
+*.nc
+*.nc:Zone.Identifier
+*.png
+CERES*.txt
