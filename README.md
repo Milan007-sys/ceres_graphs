@@ -2,7 +2,7 @@
 
 The final picture shows the 12-month running mean of the CERES radiation components
 along with the GISTEMP global tempareture dataset.
-![Alt The final image](https://github.com/Milan007-sys/ceres_graphs/main/CERES_radiation_fluxes_globe_ENG.png?raw=true)
+![Alt The final image](https://github.com/Milan007-sys/ceres_graphs/blob/main/CERES_radiation_fluxes_globe_ENG.png?raw=true)
 The GISTEMP data can be obtained here:
 https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Monthly_Mean_Global_Surface_Temperature/graph.txt
 The last data are up to 2024-07 and are edited to match the dates of the CERES data. 
