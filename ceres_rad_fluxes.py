@@ -155,8 +155,6 @@ axs[1].set_ylim(float(lw_weighted_mean_smoothed.min())  - ylim_offset,
             float(lw_weighted_mean_smoothed.min() + ylim_range))
 axs[1].set_ylabel('Long-wave Outgoing')
 axs[1].set_title('Long-wave outgoing radiation, ToA, global mean  (W/m^2)', color = 'red')
-axs[1].text(datetime(2000, 6, 1), 241.88, 'According to the AGW greenhouse hypothesis this quantity should decrease', style='italic',
-        bbox={'facecolor': 'red', 'alpha': 0.3, 'pad': 10}, fontsize=14)
 axs[1].grid('on', which='major', axis='y', linestyle=':')
 axs[1].grid('on', which='major', axis='x', linestyle=':')
 axs[1].text(datetime(2016, 1, 1), 240, 'Data NASA/NOAA, author: M. Šálek', style='italic',
