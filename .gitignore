@@ -1,3 +1,4 @@
 *.nc
 *.nc:Zone.Identifier
 CERES*.txt
+aux/
